@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0054-spiral-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0229-majority-element-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0229-majority-element-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -39,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0015-3sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
