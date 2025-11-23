@@ -40,9 +40,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
