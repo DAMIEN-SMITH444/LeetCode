@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1635-number-of-good-pairs](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2159-two-out-of-three](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2159-two-out-of-three) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2159-two-out-of-three](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2159-two-out-of-three) |
 ## Sorting
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0682-baseball-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2159-two-out-of-three](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2159-two-out-of-three) |
 <!---LeetCode Topics End-->
