@@ -74,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0412-fizz-buzz) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0682-baseball-game) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
