@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1635-number-of-good-pairs](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2047-find-a-peak-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2159-two-out-of-three](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2159-two-out-of-three) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0054-spiral-matrix) |
+| [2047-find-a-peak-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2047-find-a-peak-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Enumeration
 |  |
 | ------- |
