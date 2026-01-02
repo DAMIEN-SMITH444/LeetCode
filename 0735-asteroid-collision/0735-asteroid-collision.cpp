@@ -1,0 +1,16 @@
+class Solution {
+public:
+    vector<int> asteroidCollision(vector<int>& asteroids) {
+        vector<int>s;
+        int n = asteroids.size();
+        for(int i = 0;i<n;i++){
+            if(asteroids[i] > 0)s.push_back(asteroids[i]);
+            else {
+                while(!s.empty() && s.back() > 0 && s.back() < abs(asteroids[i]))s.pop_back();
+                if(!s.empty() && s.back() == abs(asteroids[i]) ) s.pop_back();
+                else if(s.empty() || s.back() < 0)s.push_back(asteroids[i]);
+            }
+        }
+        return s;
+    }
+};
