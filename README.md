@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2159-two-out-of-three](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2159-two-out-of-three) |
@@ -141,5 +143,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
