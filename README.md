@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2159-two-out-of-three](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2159-two-out-of-three) |
 ## Sorting
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0412-fizz-buzz) |
 | [1078-remove-outermost-parentheses](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1970-sorting-the-sentence](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1970-sorting-the-sentence) |
 ## Stack
@@ -136,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0076-minimum-window-substring) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
