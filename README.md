@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0978-valid-mountain-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
