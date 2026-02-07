@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -167,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
