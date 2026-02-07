@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0229-majority-element-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0658-find-k-closest-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
