@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0125-valid-palindrome) |
 | [0658-find-k-closest-elements](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0412-fizz-buzz) |
