@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1619-path-crossing](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2159-two-out-of-three](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2159-two-out-of-three) |
 ## Sorting
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1619-path-crossing](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1619-path-crossing) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1970-sorting-the-sentence](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
