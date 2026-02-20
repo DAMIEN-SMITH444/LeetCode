@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1464-reduce-array-size-to-the-half](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1580-shuffle-the-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1464-reduce-array-size-to-the-half](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1619-path-crossing](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2159-two-out-of-three](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2159-two-out-of-three) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1464-reduce-array-size-to-the-half](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1970-sorting-the-sentence](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1970-sorting-the-sentence) |
 ## Counting
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1464-reduce-array-size-to-the-half](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Backtracking
 |  |
 | ------- |
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [1464-reduce-array-size-to-the-half](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 <!---LeetCode Topics End-->
