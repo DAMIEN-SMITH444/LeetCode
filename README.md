@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0260-single-number-iii) |
+| [0899-binary-gap](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0899-binary-gap) |
 | [2159-two-out-of-three](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2159-two-out-of-three) |
 ## Binary Search
 |  |
