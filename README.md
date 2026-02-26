@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0735-asteroid-collision) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1619-path-crossing](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1619-path-crossing) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1970-sorting-the-sentence](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0260-single-number-iii) |
 | [0899-binary-gap](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0899-binary-gap) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2159-two-out-of-three](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2159-two-out-of-three) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Binary Search
