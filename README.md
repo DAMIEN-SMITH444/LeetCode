@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1464-reduce-array-size-to-the-half](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1970-sorting-the-sentence](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1970-sorting-the-sentence) |
 ## Counting
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0125-valid-palindrome) |
 | [0658-find-k-closest-elements](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2047-find-a-peak-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Enumeration
 |  |
