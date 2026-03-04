@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0079-word-search) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Simulation
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0079-word-search) |
 ## Recursion
 |  |
 | ------- |
@@ -202,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
