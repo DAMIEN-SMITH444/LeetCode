@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2159-two-out-of-three](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2159-two-out-of-three) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0054-spiral-matrix) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Simulation
 |  |
