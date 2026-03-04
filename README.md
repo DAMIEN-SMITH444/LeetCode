@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1022-unique-paths-iii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1464-reduce-array-size-to-the-half](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0079-word-search) |
+| [1022-unique-paths-iii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Simulation
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0260-single-number-iii) |
 | [0899-binary-gap](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0899-binary-gap) |
+| [1022-unique-paths-iii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2159-two-out-of-three](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/2159-two-out-of-three) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0079-word-search) |
+| [1022-unique-paths-iii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/1022-unique-paths-iii) |
 ## Recursion
 |  |
 | ------- |
