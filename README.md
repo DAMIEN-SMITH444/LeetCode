@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0260-single-number-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0506-relative-ranks](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/DAMIEN-SMITH444/LeetCode/tree/master/0907-koko-eating-bananas) |
